@@ -1,6 +1,8 @@
+package clase3;
+
 public class Main {
     public static void main(String[] args) {
-//        CuentaBancaria cuenta = new CuentaBancaria(1000);
+//        clase3.CuentaBancaria cuenta = new clase3.CuentaBancaria(1000);
 //
 //        System.out.println("Saldo: "+cuenta.getSaldo());
 //
@@ -8,14 +10,14 @@ public class Main {
 //        cuenta.deposital(100);
 //        System.out.println("Saldo: "+cuenta.getSaldo());
 
-//        Auto auto = new Auto();
+//        clase3.Auto auto = new clase3.Auto();
 //        auto.encender();
 //
-//        Moto moto = new Moto();
+//        clase3.Moto moto = new clase3.Moto();
 //        moto.encender();
 
-//        Auto auto = new Auto();
-//        Moto moto = new Moto();
+//        clase3.Auto auto = new clase3.Auto();
+//        clase3.Moto moto = new clase3.Moto();
 //
 //        auto.hacerRuido();
 //        auto.encender();

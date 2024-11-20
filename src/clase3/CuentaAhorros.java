@@ -1,3 +1,5 @@
+package clase3;
+
 public class CuentaAhorros extends CuentaBancaria{
     private double interes;
     public CuentaAhorros(double saldoInicial, double interes) {

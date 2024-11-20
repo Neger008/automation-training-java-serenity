@@ -1,3 +1,5 @@
+package clase3;
+
 public class Moto extends Vehiculo{
 
     @Override

@@ -1,3 +1,5 @@
+package clase3;
+
 public class Auto extends Vehiculo{
     @Override
     public void hacerRuido(){
